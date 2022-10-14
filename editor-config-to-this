@@ -1,0 +1,4 @@
+#!/bin/bash
+rm .editorconfig
+wget -c https://raw.githubusercontent.com/ladyka/ladyka/master/.editorconfig
+
