@@ -1165,5 +1165,8 @@ ij_yaml_space_before_colon = false
 ij_yaml_spaces_within_braces = true
 ij_yaml_spaces_within_brackets = true
 
+[*.tpl]
+indent_size = 2
+
 [*.tf]
 indent_size = 2
